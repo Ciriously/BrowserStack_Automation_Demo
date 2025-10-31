@@ -232,6 +232,10 @@ def run_scrape_test(caps):
             try:
                 translated = translator.translate(title, src='es', dest='en')
                 english_titles.append(translated.text)
+
+                print(
+                    f"[{session_name}] (ES): {title}  ->  (EN): {translated.text}")
+
             except Exception as e:
                 print(f"[{session_name}] Error translating a title: {e}")
         print(f"[{session_name}] Translated {len(english_titles)} titles.")

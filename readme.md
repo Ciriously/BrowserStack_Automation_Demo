@@ -20,6 +20,8 @@ The `browserstack_test.py` script executes all 5 test environments in parallel. 
 
 ![sampleresults](dashboardmac.jpg)
 
+![sampleresults](translate.jpg)
+
 ## 📊 Public Results URL
 
 View the complete test results, including videos and logs, at:
