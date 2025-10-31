@@ -20,6 +20,12 @@ The `browserstack_test.py` script executes all 5 test environments in parallel. 
 
 ![sampleresults](dashboardmac.jpg)
 
+## 📊 Public Results URL
+
+View the complete test results, including videos and logs, at:
+
+[BrowserStack Public Results](https://automate.browserstack.com/projects/Default+Project/builds/Untitled+Build+Run/1?public_token=9c9d094787bf1f7eaaee36484489bfc7be3e0ab14ca9680e0eac1cfefdfa8844)
+
 ---
 
 ## 💻 Technologies Used
@@ -41,8 +47,7 @@ Follow these steps to get the project running.
 ### 1. Clone the Repository
 
 ```bash
-# Replace this with your own repository URL
-git clone [https://github.com/Ciriously/BrowserStack_Automation_Demo](https://github.com/Ciriously/BrowserStack_Automation_Demo)
+git clone https://github.com/Ciriously/BrowserStack_Automation_Demo
 cd BrowserStack_Automation_Demo
 ```
 
