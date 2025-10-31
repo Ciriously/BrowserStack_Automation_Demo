@@ -42,8 +42,8 @@ Follow these steps to get the project running.
 
 ```bash
 # Replace this with your own repository URL
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-cd your-repository-name
+git clone [https://github.com/Ciriously/BrowserStack_Automation_Demo](https://github.com/Ciriously/BrowserStack_Automation_Demo)
+cd BrowserStack_Automation_Demo
 ```
 
 ### 2. Set Up Credentials
