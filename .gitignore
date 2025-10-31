@@ -4,7 +4,3 @@
 # Ignore Python cache
 __pycache__/
 *.pyc
-
-# Ignore local test output
-*.jpg
-*.png
